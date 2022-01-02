@@ -37,31 +37,20 @@ ________________________________________________________________________________
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Django
     </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node JS" />
       </a>
-      <br>Node JS
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
       </a>
-      <br>MongoDB
+      <br>PostGreSQL
     </td>
   </tr>
   <tr>
@@ -100,11 +89,6 @@ ________________________________________________________________________________
         <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
-    </td>
-    <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="VueJS" />
-      </a>
       <br>VueJS
     </td>
     <td align="center" width="96">
