@@ -15,12 +15,6 @@ ________________________________________________________________________________
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#ArkAngeL-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
         <td align="center" width="96">
       <a href="#yasserjanah-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
