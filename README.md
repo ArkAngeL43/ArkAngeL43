@@ -14,6 +14,6 @@ ________________________________________________________________________________
 
 <br>
 
-<h2>Join the offical Red Rabbit / Scare Sec Hackers Discord Server </h2>
+<h1>Join the offical Red Rabbit / Scare Sec Hackers Discord Server </h1>
 
-Server invite -> `https://discord.gg/fEWXZyEzSe`
+<h2>https://discord.gg/fEWXZyEzSe</h2>
