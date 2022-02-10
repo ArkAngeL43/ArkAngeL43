@@ -1,7 +1,7 @@
 ### Hello there fellow hackers/developers!
 
-__________________________________________________________________________________________
-- I am a german programmer out of merica | <br>
+<hr>
+- I am a german programmer out of merica 
 - I program/use the following languages  | => I Stay in between languages like ASM, Perl, Ruby, And GoLang
 - I like programming in lagacy languages | => LASM ( Currently Learning ), Perl5, Fortran <br>
 - I am a cyber security student learning | => Black hat hacking with GOlang and Ruby <br>
