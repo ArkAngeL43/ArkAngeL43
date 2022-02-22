@@ -1,11 +1,22 @@
 ### Hello there fellow hackers/developers!
 
 <hr>
-- I am a german programmer out of merica 
-- I program/use the following languages  | => I Stay in between languages like ASM, Perl, Ruby, And GoLang
-- I like programming in lagacy languages | => LASM ( Currently Learning ), Perl5, Fortran <br>
-- I am a cyber security student learning | => Black hat hacking with GOlang and Ruby <br>
-- My biggest project is Red Rabbit V5    | => https://github.com/ArkAngeL43/Red-Rabbit-V5 <br>
+
+# languages i write in 
+| Language | Type          | Legacy or Modern |  Sub Name    |
+| -------- | ------------- | ---------------- | ------------ |
+| Perl 3   | Interpreted   |     Legacy       |    Perl      |
+| Perl 6   | Interpreted   |     Modern       |    RAKU      |
+| Golang   | Compiled      |     Modern       |    Go        |
+| Ruby     | Interpreted   |     Modern       |    ruby      |
+| Crystal  | Interpreted   |     Modern       |    CRY       |
+| Fortran  | Compiled      |     Legacy       |     F        |
+| LASM     | Compiled      |     Legacy       | Linux ASM    | 
+| ASM      | Compiled      |     Legacy       |    ASM       |
+| Python   | Interpretted  |     Modern       |    PY        |
+| C        | Compiled      |     Legacy       |    C-Lang    |
+| Bash     | interpretted  |     In between   | Shell-script |
+
 
 ![ArkAngeL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkAngeL43&show_icons=true&theme=tokyonight)
 [![ArkAngeL's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArkAngeL43&theme=react-dark)](https://github.com/ArkAngeL43)
