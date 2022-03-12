@@ -32,10 +32,6 @@ I currently work with my own security team named Scare_Security, where our goal 
 
 visit Parrot CTF"s -> https://parrot-ctfs.com/
 
-# About the offical red rabbit developer and scare sec hackers discord server 
-
-Our discord server trys to be the better one out there, this means that not only do we give you the most recent news on tools coming out, releases, articals, development etc etc but we also hold teachings for programming in languages listed below 
-
 <!--
 | Language Name |
 | ------------- |
@@ -72,10 +68,15 @@ Our discord server trys to be the better one out there, this means that not only
 <br>
 <br>
 
+<h1>Support me and my projects with VENMO!</h1>
+
 <img src="ven.png" align="right" />
 
 
 and much more , along that this server is growing with more energetic people looking to put a dent in this industry along side of me! join here
+# About the offical red rabbit developer and scare sec hackers discord server 
+
+Our discord server trys to be the better one out there, this means that not only do we give you the most recent news on tools coming out, releases, articals, development etc etc but we also hold teachings for programming in languages listed below 
 
 <hr>
 
