@@ -72,7 +72,7 @@ Our discord server trys to be the better one out there, this means that not only
 <br>
 <br>
 
-<img src="icon.png" align="right" />
+<img src="ven.png" align="right" />
 
 
 and much more , along that this server is growing with more energetic people looking to put a dent in this industry along side of me! join here
