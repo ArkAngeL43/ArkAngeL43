@@ -67,7 +67,14 @@ Our discord server trys to be the better one out there, this means that not only
 -->
 
 
-# Awesome README [![Venmo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+
+<br>
+<br>
+<br>
+
+
+
+# Awesome README [![Awsome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 (https://github.com/sindresorhus/awesome#readme)
 
 and much more , along that this server is growing with more energetic people looking to put a dent in this industry along side of me! join here
