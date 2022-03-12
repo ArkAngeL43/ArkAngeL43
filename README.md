@@ -36,6 +36,7 @@ visit Parrot CTF"s -> https://parrot-ctfs.com/
 
 Our discord server trys to be the better one out there, this means that not only do we give you the most recent news on tools coming out, releases, articals, development etc etc but we also hold teachings for programming in languages listed below 
 
+<!--
 | Language Name |
 | ------------- |
 | Lua           |
@@ -63,6 +64,11 @@ Our discord server trys to be the better one out there, this means that not only
 | Rust          |
 | SQL           |
 | ect           |
+-->
+
+<h1> Please support me and my projects <h1>
+
+  # Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)(https://github.com/sindresorhus/awesome#readme)
 
 and much more , along that this server is growing with more energetic people looking to put a dent in this industry along side of me! join here
 
