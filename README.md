@@ -9,7 +9,7 @@
 | Perl 6   | Interpreted   |     Modern       |    RAKU      |
 | Golang   | Compiled      |     Modern       |    Go        |
 | Ruby     | Interpreted   |     Modern       |    ruby      |
-| Crystal  | Interpreted   |     Modern       |    CRY       |
+| Crystal  | Interpreted   |     Modern       |    CR        |
 | Fortran  | Compiled      |     Legacy       |     F        |
 | LASM     | Compiled      |     Legacy       | Linux ASM    | 
 | ASM      | Compiled      |     Legacy       |    ASM       |
