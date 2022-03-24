@@ -79,7 +79,7 @@ I currently work with my security team named Scare_Security, where our goal is t
 
 <h1>Support me and my projects with VENMO!</h1>
 
-<img src="ven.png" align="right" width="300px" height=300px />
+<img src="ven.png" align="left" width="500px" height=500px />
 <br />
 <br />
 <br />
@@ -97,15 +97,16 @@ I currently work with my security team named Scare_Security, where our goal is t
 <br />
 <br />
 and much more , along that this server is growing with more energetic people looking to put a dent in this industry along side of me! join here
-# About the offical red rabbit developer and scare sec hackers discord server 
+<h2> About the offical red rabbit developer and scare sec hackers discord server </h2>
 
 Our discord server trys to be the better one out there, this means that not only do we give you the most recent news on tools coming out, releases, articals, development etc etc but we also hold teachings for programming in languages listed below 
 
-[Red Rabit Discord Invite](https://discord.gg/fEWXZyEzSe)
+[Red Rabit Discord Invite](https://discord.gg/fEWXZyEzSe) || 
 [Parrot CTFs Discord Invite](https://discord.parrot-ctfs.com)
 ---
 
-### Socials
+## Socials
+---
 [<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 
