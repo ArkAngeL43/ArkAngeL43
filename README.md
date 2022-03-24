@@ -101,12 +101,14 @@ and much more , along that this server is growing with more energetic people loo
 
 Our discord server trys to be the better one out there, this means that not only do we give you the most recent news on tools coming out, releases, articals, development etc etc but we also hold teachings for programming in languages listed below 
 
+<h3>
 [Red Rabit Discord Invite](https://discord.gg/fEWXZyEzSe) || 
 [Parrot CTFs Discord Invite](https://discord.parrot-ctfs.com)
----
+</h3>
+
 
 ## Socials
----
+
 [<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="linkedin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 
