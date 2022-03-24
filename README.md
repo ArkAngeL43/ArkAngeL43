@@ -79,7 +79,7 @@ I currently work with my security team named Scare_Security, where our goal is t
 
 <h1>Support me and my projects with VENMO!</h1>
 
-<img src="ven.png" align="left" width="500px" height=500px />
+<img src="ven.png" align="left" width="300px" height=300px />
 <br />
 <br />
 <br />
