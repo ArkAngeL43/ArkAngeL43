@@ -112,4 +112,3 @@ Our discord server tries to be one of the betters ones out there, This means tha
 [Website]: https://parrot-ctfs.com
 [Discord]: https://discord.gg/fEWXZyEzSe 
 [Instagram]: https://instagram.com/totally_not_a_haxxer
-[Discord]: https://discord.gg/Grxn7jMubC
