@@ -19,8 +19,10 @@
 | Bash     | interpretted  |     In between   | Shell-script |
 
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexuzzzz&hide=java,html,css&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![ArkAngeL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkAngeL43&show_icons=true&theme=tokyonight) <br />
+[![ArkAngeL;s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexuzzzz&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 <!-- application error in this app
 ![ArkAngeL's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArkAngeL43&theme=react-dark)](https://github.com/ArkAngeL43)
