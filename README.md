@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkAngeL43&hide=java,html,css&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ArkAngeL;s GitHub stats](https://github-readme-stats.vercel.app/api?username=Nexuzzzz&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![ArkAngeL;s GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkAngeL43&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
